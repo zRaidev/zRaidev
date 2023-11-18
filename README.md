@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improve my programming logic
+- 🌱 I’m currently learning React.js
+- 📫 Contact me on instagram
+- ⚡ Fun fact: I aspire to work on Facebook
+
 <!--
 **zRaidev/zRaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
