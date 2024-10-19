@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improve my programming logic
 - 🌱 I’m currently learning React.js
 - 📫 Contact me on instagram
-- ⚡ Curious fact: I aspire to work on Meta
+- ⚡ Curious fact: My favorite animal is the capybara
 
 <!--
 **zRaidev/zRaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
