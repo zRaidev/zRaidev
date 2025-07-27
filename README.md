@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improve my programming logic
 - 🌱 I’m currently learning React.js
-- 📫 Contact me on instagram
+- 📫 Contact me on LinkedIn
 - ⚡ Curious fact: I am a musician, I play the clarinet.
 
 <!--
