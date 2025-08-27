@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on improving my programming logic
-
 - 🌱 I’m currently learning React.js
-
 - 📫 You can reach me on LinkedIn
-
 - ⚡ Fun fact: I’m a musician and I play the clarinet
+
 <!--
 **zRaidev/zRaidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 	
