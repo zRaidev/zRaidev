@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 Learning: React.js, Python
+- 🌱 Learning every day
 - 📫 Reach me via: isaac14e2007@hotmail.com
 - 💬 Ask me about: music and software development!
 
