@@ -1,7 +1,5 @@
 <div align="center">
 
-# Isaac Vergara
-
 **Software Engineering Student · Web Developer · Builder**
 
 [![Email](https://img.shields.io/badge/Email-isaac.vergara140%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:isaac.vergara140@gmail.com)
