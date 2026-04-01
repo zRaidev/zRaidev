@@ -17,9 +17,9 @@ I'm a <b>Software Engineering</b> student at <b>Technological University of Pana
 Currently focused on frontend development and AI implementations.
 My goal is be the best version of myself.
 
-- 🏗️ &nbsp;Working on my **portfolio** and a **vocational guidance chatbot** for Panamanian students
+- 🏗️ &nbsp;Working on my **portfolio** and **Pa'lante Con El Saber website**
 - 🤝 &nbsp;Open to collaborating on interesting projects
-- 🎯 &nbsp;Exploring: backend development and data engineering..
+- 🎯 &nbsp;Exploring: backend development and data engineering
 - 🎵 &nbsp;Ask me about **music** or **software development**
 
 ---
