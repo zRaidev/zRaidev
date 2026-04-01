@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 Learning every day
-- 📫 Reach me via: isaac14e2007@hotmail.com
+- 📫 Reach me via: isaac.vergara140@gmail.com
 - 💬 Ask me about: music and software development!
 
 <!--
