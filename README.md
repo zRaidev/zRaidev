@@ -14,7 +14,7 @@
 ### About me
 
 I'm a <b>Software Engineering</b> student at <b>Technological University of Panama</b> (UTP), learning & building things while I study.
-Currently focused on frontend development and AI implementations.
+Currently focused on web development and AI implementations.
 My goal is be the best version of myself.
 
 - 🏗️ &nbsp;Working on my **portfolio** and **Pa'lante Con El Saber website**
